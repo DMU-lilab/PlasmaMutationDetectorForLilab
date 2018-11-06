@@ -16,7 +16,7 @@ R (>= 3.4.0), ggplot2 (>= 2.2.0), grid (>= 3.4.0),
         GenomicRanges (>= 1.30.0), data.table (>= 1.10.4), VariantAnnotation (>= 1.24.0)
 
 
-#### release 1.7.2 For Lilab
+#### Release 1.7.2 For Lilab
 version for ZhiGuang Li lab developed by ywliao from Yves's version. Mainly changed:
  1. vcf file from NCBI can be used as input (ftp://ftp.ncbi.nlm.nih.gov/snp/organisms/human_9606/VCF/), hg38 version should be used
  2. Add some message to report input
