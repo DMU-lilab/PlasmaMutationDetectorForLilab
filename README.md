@@ -37,7 +37,7 @@ Manual installation
 #### Checkout the latest release of PlasmaMutationDetectorForLilab from GitHub
 ```git clone https://github.com/DMU-lilab/PlasmaMutationDetectorForLilab.git```
 
-#### Install the FindPeek package
+#### Install the PlasmaMutationDetectorForLilab package
 From the command line and in the directory where PlasmaMutationDetectorForLilab github was cloned.
 ```R CMD INSTALL PlasmaMutationDetectorForLilab ```
 
