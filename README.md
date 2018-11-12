@@ -47,6 +47,9 @@ https://cran.r-project.org/web/packages/PlasmaMutationDetector/index.html
 
 ### Test data
 Test data can be downloaded from baiduyun
+(链接：https://pan.baidu.com/s/1zVpKPrvfKCn9DAzvCP8Kkw 
+提取码：fe4n 
+复制这段内容后打开百度网盘手机App，操作更方便哦)
 
 Test manual also can be downloaded from baiduyun (in chinese)
 
