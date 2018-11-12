@@ -44,3 +44,10 @@ From the command line and in the directory where PlasmaMutationDetectorForLilab 
 ### Usage
 Please refer to the original version of manual.
 https://cran.r-project.org/web/packages/PlasmaMutationDetector/index.html
+
+### Test data
+Test data can be downloaded from baiduyun
+
+Test manual also can be downloaded from baiduyun (in chinese)
+
+
